@@ -6,5 +6,6 @@ Disallow:
 # This line has been added BY ANDY CHOI
 # This line has been added BY ANDY CHOI TO DEMONSTRATE "git push" command
 # This line has been added to demonstrate the usage of SSH protocol
+# This line has been added BY ANDY CHOI to demonstrate ssh protocol
 
 # some line
